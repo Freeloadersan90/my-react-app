@@ -1,0 +1,3 @@
+module.exports = {
+  projects: { default: "my-react-app-55dd7" },
+};
